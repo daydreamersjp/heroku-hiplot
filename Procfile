@@ -1,1 +1,1 @@
-web: python -m hiplot hiplot_fifa.fetch_my_experiment
+web: gunicorn hiplot_fifa:app
