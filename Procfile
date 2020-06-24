@@ -1,1 +1,1 @@
-web: hiplot hiplot_fifa.fetch_my_experiment
+web: python -m hiplot hiplot_fifa.fetch_my_experiment
